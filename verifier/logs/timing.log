@@ -1,0 +1,9 @@
+	Build CFG: 18.77593994140625 ms
+	Verify CFLog: 147.230863571167 ms
+	Backward Trace: 1.7812252044677734 ms
+	Symb. Dataflow Analysis: 585.5019092559814 ms
+	Generate Patch: 1.7774105072021484 ms
+	Update ELF: 79.4832706451416 ms
+	Translate CFLog: 10.519742965698242 ms
+	Build Patched CFG: 27.2676944732666 ms
+	Validate Patch: 568.6261653900146 ms
