@@ -58,6 +58,7 @@ Afterwards the patched binary is written back to the application's benchmark-set
 ## Notes
 
 - The `verifier` run shares a working directory, so runs must be sequential (the scripts overwrite `patched.elf`, `objs`, and `logs`).
+- This codebase is a research prototype accompanying the paper mentioned above, and it is intended to reflect the approach described there. The paper is the authoritative description of the approach, including its scope, assumptions, and guarantees.
 
 ## BibTex Entries
 
